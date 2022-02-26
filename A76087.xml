@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The knight errant being a witty, notable and true relation of the strange adventures of Sir William Hart now prisoner in the tower: his severall exploits, cheats, and most witty tricks by him acted ever since his first beeing untill his proclaiming the Scotch king at Worcester, in August last. Written by J.B. Gent.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76087</idno>
+            <idno type="STC">Wing B107</idno>
+            <idno type="STC">Thomason E1370_5</idno>
+            <idno type="STC">ESTC R209334</idno>
+            <idno type="EEBO-CITATION">99868217</idno>
+            <idno type="PROQUEST">99868217</idno>
+            <idno type="VID">169865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169865)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1370[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The knight errant being a witty, notable and true relation of the strange adventures of Sir William Hart now prisoner in the tower: his severall exploits, cheats, and most witty tricks by him acted ever since his first beeing untill his proclaiming the Scotch king at Worcester, in August last. Written by J.B. Gent.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Annotation on Thomason copy: "March 26 1651"; 2 in imprint date crossed through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hart, William, --  Sir, --  moss trooper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169865:1" rendition="simple:additions"/>
+            <p>THE KNIGHT ERRANT: Being a witty, notable and true Relation of the Strange adventures OF Sir <hi>William Hart</hi> Now Priſoner in the Tower: His ſeverall exploits, cheats, and moſt witty tricks by him acted ever ſince his firſt beeing untill his proclaiming the <hi>SCOTCH</hi> KING at <hi>WORCESTER,</hi> In <hi>Auguſt</hi> laſt.</p>
+            <figure/>
+            <p>Written by <hi>J. B.</hi> Gent.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>E. C.</hi> 165<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:169865:2"/>
+            <pb facs="tcp:169865:2"/>
+            <head>THE Knight Errant.</head>
+            <l>
+               <hi>
+                  <seg rend="decorInit">G</seg>Uzman</hi> is famous through the world, for tricks that he hath plaide,</l>
+            <l>
+               <hi>Quixot</hi> is like renownd for Iuſts, againſt the Wind-mils made,</l>
+            <l>With other his adventures ſtrange, poor <hi>Lazarillo</hi> too</l>
+            <l>Is ſung amongſt the Spaniſh Bards, for feats that he did doe.</l>
+            <l>Our <hi>Hynd</hi> amongſt the Engliſh Pads, doth many one a excell;</l>
+            <l>And <hi>Knowles</hi> from all the jugling wits, doth bear away the bell:</l>
+            <l>With many equall unto theſe, who in print were never known,</l>
+            <l>Who by their wits and cheating tricks, hath couZned many a one.</l>
+            <l>Yet in praiſes of our <hi>Errant</hi> Knight, with me they'l bear a part,</l>
+            <l>And all ſubmit in feats of wit, to our Sir <hi>William Hart.</hi>
+            </l>
+            <div type="part">
+               <pb facs="tcp:169865:3"/>
+               <head>Of Sir <hi>William Hart</hi> his ſtrange birth, and of his being nouriſhed by the So<g ref="char:EOLhyphen"/>lan Geeſe; of his being found by a Fiſherman; likewiſe how he left that trade and turned Moſſe Trooper.</head>
+               <p>IT is a thing very difficill to give any exact account of the life or firſt pro<g ref="char:EOLhyphen"/>duction of this our doughty <hi>Knight,</hi> (the ſubject of this our ſtory) being it is a matter that has not only bin delivered in clouds unto all his acquaintance, and thoſe that have heard of him; but even reſt hid, as yet to the preſent Powers that queſtion him, he being en<g ref="char:EOLhyphen"/>dued with the learned language of the <hi>Highlands,</hi> and as good <hi>Lowland Scotch,</hi> as any of his fellow priſoners, he pretending to be one of the <hi>Hungry</hi> nation; but ſince my Genius has recei<g ref="char:EOLhyphen"/>ved further light then any other touch<g ref="char:EOLhyphen"/>ing this buſineſſe, I will no longer hold the wondering World in admiration: It is a generall concluſion amongſt the learned, that a Mandrake proceeds from the ſeed of men that are hanged,
+<pb facs="tcp:169865:3"/>
+that that radicall moiſture diſtilling from the Mentula, received by the earth, nouriſht and hatch by the Sun; but Sir <hi>William</hi> had a more ſtrange conceivement. For in the year of our Lord, <hi>Anno</hi> 1611. ſeverall ſail of Scots who had obtained leave and Patents of King <hi>James</hi> to tranſplant the Na<g ref="char:EOLhyphen"/>tives in the <hi>Ulster</hi> Plantation of <hi>Ireland;</hi> theſe ſhips being fraught with men, women and their families, ſetting out for <hi>Ireland,</hi> from <hi>Dumbarton, Ayer,</hi> and other Weſtern parts of <hi>Scotland;</hi> But they had not ſailed many houres with a proſperous gayle, but the winds change, the Seas boil, and in fine the Elements conclude their overthrow (a juſt judgement; beware of <hi>Naboths</hi> garden, or another mans poſſeſſion, it's not lawfull) and to be brief, the ſtorm waxes ſo violent, that in a ſhort time away flyes the main Maſts, tackles, ſailes, &amp;c. and ſplits, ſome againſt the rocks, ſome ſplits and ſinks in the mouth of Aſike, the River that parts <hi>Cumberland</hi> and <hi>Scotland,</hi> others by
+<pb facs="tcp:169865:4"/>
+exceſſive leaks immediately ſink; this ſo affrights the periſhing paſſengers, that through exceſſive feare ſeverall women gave up their young, and in the end not one eſcapes: yet ſo it came to paſſe that one of the ſhips in which ſome of the Abortives were, being broken all to peices, one of the untime<g ref="char:EOLhyphen"/>ly fruits floated upon a certain cheſt, and was beaten into a rocky cliffe, a place the Sea ſeldom kiſs'd, but in ſome ſuch extravagant weather. This little lump was ſo much favoured by certain fowl called <hi>Solan Geeſe,</hi> which are of a ſtrange nature, drobing from the ſides and maſts of drowned ſhips: theſe inha<g ref="char:EOLhyphen"/>biting in thoſe clifty rocks, kindly nou<g ref="char:EOLhyphen"/>riſhes and hatches our yong one, who being fed with ſuch fiſh as the fowles procured for the ſpace of nine months; at the end of which time ſeverall fiſh<g ref="char:EOLhyphen"/>ermen uſed thereabouts a hadock fiſh<g ref="char:EOLhyphen"/>ing, one amongſt the reſt was by foul weather driven into the cliffe where our Sir <hi>William</hi> lay, and finding that miracle, friendly takes him away, rob<g ref="char:EOLhyphen"/>bing
+<pb facs="tcp:169865:4"/>
+the kinde foſtering birds of their prey; brings him home to his cave, where his wife kindely receives the childe, giving it a meſſe of Poleloore, a dainty diſh in in that countrey I can aſſure you. The ſtripling grows up to age of 12 yeares, at which time the old man takes him to Sea, where he aſſiſts in the trade of fiſhing for the tearm of five years: But in the mean time a diſaſter befals him (for his fa<g ref="char:EOLhyphen"/>ther the Fiſherman as he ſuppoſed) had a daughter (with whom they ligging awe togither) it was his fortune to in<g ref="char:EOLhyphen"/>gender with: ſhee proving fruitfull as moſt of that countrey cattell are, forces our <hi>Billicoe Wully</hi> for fear of the Scotch damnable Inquiſition, that wayfull ſteule of Repentance, to leap into the <hi>Lawlands</hi> into <hi>Anandayle</hi> where he was entertained by a Moſſe Trooper to be Sub-Cow-ſtealer.</p>
+               <q>
+                  <l>Thus have you heard how ſtrange our <hi>Hart,</hi>
+                  </l>
+                  <l>Preſerv'd was from this wrack.</l>
+                  <l>
+                     <pb facs="tcp:169865:5"/>And that when others drown'd, were in the Sea,</l>
+                  <l>The Billows beat him back.</l>
+                  <l>Which makes me ſhrewdly to conclude,</l>
+                  <l>In reference to our Knight,</l>
+                  <l>That maugre all the Windes and Seas,</l>
+                  <l>The Rope will have its right.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>How Sir <hi>William Hart</hi> became famous amongſt the Moſs Troopers by robbing my Lord <hi>William Howard</hi> of the North; likewiſe how he cozened them and came diſguiſed into England.</head>
+               <p>THE Moſſe-Troopers are your Scots that dwell in <hi>Nideſdayle, A<g ref="char:EOLhyphen"/>nandale,</hi> the <hi>Marſh</hi> countrey and other adjacent parts upon <hi>England,</hi> ſome in <hi>Gilſland,</hi> and in the <hi>Moſſes</hi> of <hi>Cumber<g ref="char:EOLhyphen"/>land,</hi> theſe fellows are Countrey men, which keep good horſes, are well arm<g ref="char:EOLhyphen"/>ed, and in fine, are notable reſolved theeves, being numerous, having for ſhelter their Caves in the Moſſes and Mountains where they inhabit: unto one of the chiefeſt of theſe was our
+<pb facs="tcp:169865:5"/>
+Sir <hi>William</hi> an appendix whoſe name was <hi>Kinman,</hi> famous for his fellonies; theſe Blades had been much perſecu<g ref="char:EOLhyphen"/>ted by my Lord <hi>Howard</hi> of <hi>Naworth</hi> upon the borders of <hi>Carlyle,</hi> many plots of revenge had they had againſt the ſaid Lord. But none to any great pur<g ref="char:EOLhyphen"/>poſe, by reaſon of the great fear they ſtood in of him; but upon <hi>Harts</hi> being admitted to their Counſel, they reſolve to try their fate (thus:) Sir <hi>William</hi> and another that had attained to the Engliſh tongue, having laid <hi>Kinman</hi> with his crew betwixt <hi>Naworth</hi> and <hi>Brantree,</hi> and another party between <hi>Naworth</hi> and <hi>Carlyle,</hi> away comes my two <hi>Ken<g ref="char:EOLhyphen"/>dall</hi> men (for ſo Sir <hi>Willy</hi> and his aſ<g ref="char:EOLhyphen"/>ſociate tearmed themſelves to be) to <hi>Naworth,</hi> where after a long narration of their being rob'd by <hi>Kinman,</hi> and his crew not far from thence, as they were going to <hi>Brantree</hi> from <hi>Perith</hi> Fair with commodities, alſo that they were confident, hee had not paſſed the the town, but lay in wait for a further prize, whereupon my Lord cauſes his
+<pb facs="tcp:169865:6"/>
+men to arm and horſe themſelves and goe in purſuit of theſe theeves, with <hi>Harts</hi> comrade for their guide Sir <hi>Wul<g ref="char:EOLhyphen"/>ly</hi> ſtaying behind, having his head broke a purpoſe, pretetending debility through his wounds. This being in the cloſe of the evening, the guide leads my Lords men up and downe untill it was midnight before they came upon <hi>Kinman,</hi> who unawares upon the watch word from the guide breakes out upon <hi>Naworth</hi> men, in the mean time Sir <hi>William</hi> ſteales out of the Caſtles, ſets fire on the Barnnes, ſtables and out-houſes and haſts away to the other party by <hi>Carlyle,</hi> packs a<g ref="char:EOLhyphen"/>way part of them like Countrey men for <hi>Naworth</hi> with all ſpeed as aſſi<g ref="char:EOLhyphen"/>ſtants to ſlack the fire, which was much increaſed by reaſon of the time of night, the ſmall number that was left about the houſe to aſſwage it theſe Hacks ſo behaved themſelves that whileſt the family runne con<g ref="char:EOLhyphen"/>fuſedly and amazed up and downe, they robbed ſeverall roomes of
+<pb facs="tcp:169865:6"/>
+a great deale of treaſure, and ſo e<g ref="char:EOLhyphen"/>ſcaped in the middle of this hurley burley; Back comes thoſe that had been in purſuit of <hi>Kinman,</hi> cut and beaten, ſtript, and diſmounted, cry<g ref="char:EOLhyphen"/>ing out they had beene betrayed by a falſe Scot, whileſt <hi>Kinman, Hart,</hi> and their comrades were marching through <hi>Aſike</hi> up to their dens, well la<g ref="char:EOLhyphen"/>den with a rich prize; this plot ta<g ref="char:EOLhyphen"/>king ſo good effect, proclaimes our Sir <hi>William</hi> famous amongſt the Moſſetroopers, who honour him now as much as the Senate of <hi>Rome</hi> did their perpetuall Dictatour, hee per<g ref="char:EOLhyphen"/>ceiving the influence hee had upon them they being gathered together in councell, hee thus delivers himſelfe unto them; I make no doubt, but it is well knowne unto you all, that how theſe divels dig'd out of the <hi>Indies, (viZ.)</hi> Gold and Silver, are become the Idols of the earth, and that their power ranſome Kings, ſaves the condemned from the jawes of death, and leads captives the deſires
+<pb facs="tcp:169865:7"/>
+of the World; it being thus my Bulleys, I thinke a treaſury amongſt us would bee a greater ſafety to us then our dens, holes, and ſculking places, by the vertue of which wee might releaſe any of our fellows from captivity when fallen therein by any adventure. This project is approved of, and they conclude to treaſure up the tithe of all their gain in the hands of Sir <hi>William</hi> and one more of their chiefe, to the intent above menti<g ref="char:EOLhyphen"/>oned; which in few years (contrary to the Proverb) amounts to a very large ſumme, which our Knight per<g ref="char:EOLhyphen"/>ceiving, having drawne in one of the ſub-theeves as his man, having horſes and other things neceſſary robs his fellow treaſurer of the mo<g ref="char:EOLhyphen"/>ney, who was the next day dirged by the Moſſetroopers for a Conſpi<g ref="char:EOLhyphen"/>rator in the fact, notwithſtanding his innocency: But our Sir <hi>William</hi> eſcaped ſo well, that you ſhall finde him preſently a baniſht Knight out of <hi>Ireland</hi> amongſt the then Noble
+<pb facs="tcp:169865:7"/>
+houſekeepers the Catholiks of <hi>Lan<g ref="char:EOLhyphen"/>caſhire.</hi>
+               </p>
+               <q>
+                  <l>Now all ye Scots behold and ſee,</l>
+                  <l>how your Repentant Stoole</l>
+                  <l>Made this our doughty Errant Knight</l>
+                  <l>become more Knave then Fowle.</l>
+                  <l>Though he by ſilly birds were fed,</l>
+                  <l>who from guilt and fraud are free.</l>
+                  <l>Yet for creeping to his ſiſters bed,</l>
+                  <l>my <hi>Bulley</hi> was fain to flee,</l>
+                  <l>And as the Moſſetroopers can tell,</l>
+                  <l>he being turned looſe;</l>
+                  <l>They Gods wot<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ken full well,</l>
+                  <l>he prov'd more Fox then Gooſe.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>How Sir <hi>William Hart</hi> rob'd a Roman Catholick in <hi>Lancaſhire.</hi>
+               </head>
+               <p>AT <hi>Kirby Loyndſdayle</hi> our Sir <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> puts himſelfe and his in Noble equipage, and under the no<g ref="char:EOLhyphen"/>tion of an Iriſh Knight hee ſets on upon his progreſſe, falling into ſociety with ſeverall Gentlemen of <hi>Lancaſhire</hi> and was well liked of, having a fluent tongue, being full of gold and ſilver, hunting a weeke here and a weeke
+<pb facs="tcp:169865:8"/>
+there, alwayes largely giving to the ſervants whereſoever hee came, which made him be cryed up for the braveſt Gentleman that came within their Maſters doores, but coming on hee betakes himſelfe to one of the richeſt Catholicks houſes in that Countrey, Mr. <hi>Preſton</hi> by name, and there ſeemingly betakes himſelfe to his de<g ref="char:EOLhyphen"/>votions, (hee was but a ſeeming Saint God wot) Lent running on he charges his man to have ready their horſes againſt Maunday Thurſday at night; the day comming that family with many others of the ſaid Religion were at their devotion, Sir <hi>William</hi> likewiſe. Now as they were at their Ceremo<g ref="char:EOLhyphen"/>nies ſinging the Lamentations in the Chappel, the Altar being moſt ſump<g ref="char:EOLhyphen"/>tuouſly dreſt, when they came to the paſſage of repreſenting <hi>how Judas came to take our Saviour,</hi> at which time they put out all the lights, then I ſay, did our Knight ſtep to the Al<g ref="char:EOLhyphen"/>tar nimbly (though profanely) diſ<g ref="char:EOLhyphen"/>mantling that ſacred place of a world
+<pb facs="tcp:169865:8"/>
+of rich Jewels, and ſtealing out of the Chappell to his horſes, and away which cauſed at the relighting of the Tapers the Lamentations to be re<g ref="char:EOLhyphen"/>newed, many being taxed, the Knight not ſuſpected, which gave a greater ſcope to his eſcape.</p>
+               <q>
+                  <l>Thus did he with Religion cloak</l>
+                  <l>his Sacriligious act:</l>
+                  <l>And in the Holy Altar ſmoak,</l>
+                  <l>
+                     <hi>Judas-</hi> like commit the fact.</l>
+                  <l>To mowe the laſſe, was not ſo bad,</l>
+                  <l>that's but a fleſhly ſin.</l>
+                  <l>Nor when he was Moſſetrooper lad</l>
+                  <l>for them the prize to win.</l>
+                  <l>But by pretence of Holy prayer,</l>
+                  <l>to doe ſo bad a thing,</l>
+                  <l>Will to the world appear most rare,</l>
+                  <l>if that he ſcape the ſwing.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>How Sir <hi>William Hart</hi> after his Robbe<g ref="char:EOLhyphen"/>ry in <hi>Lancaſhire,</hi> upon his Journey towards <hi>London,</hi> lights into a rich Inne in <hi>Warwickſhire,</hi> and by a wyle
+<pb facs="tcp:169865:9"/>
+marries the mans daughter of the Houſe.</head>
+               <p>OUr Knight after his Robbery at Mr. <hi>Preſtons</hi> flyes towards <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> making no ſtop but what neceſſity forced him to, and lighting into an Inne not far from <hi>Coventry,</hi> he reſolves to reſt himſelfe ſome dayes there; which he accordingly doth, and obſerving his Hoſt he findes him a notable Cavalier and of a believing nature, which ſets Sir <hi>Williams</hi> wits a grinding, the mans daughter being hanſome, and Sir <hi>Willi<g ref="char:EOLhyphen"/>ams</hi> kiſſes, complements and glances amorus, But obſerved with a majeſtick diſtance by Sir <hi>William,</hi> his man not fayling his part, the houſe much liſten and hearken to find out what our Noble man was, who fits them for their hearking, his man always being telling him, when they where hearkning what a diſgrace it would be for him a Lords ſon and heir to match with an Inkeepers daughter: but Sir <hi>William</hi> calls him rogue, ſwearing maugre the world he would have her, this being
+<pb facs="tcp:169865:9"/>
+heard by his Hoſt and his daughter at ſeverall times they rejoyce infinitely; otherwhiles his man would be at him ſaying, Pleaſe your Honour ſend me to this Lord or that, naming perſons of Honour, they will think themſelves obliged to furniſh you with an hundred pound or two; which the man of the houſe overhearing, cauſes his daughter to furniſh the Knight upon all occa<g ref="char:EOLhyphen"/>ſions, which ſo ſweetens him that he in a ſhort time marries her, has to boote moſt of her fathers wealth, and all this to be a Lady.</p>
+               <q>
+                  <l>To the world nothing is more common,</l>
+                  <l>Then the proud ambition of a woman.</l>
+                  <l>
+                     <hi>Eve</hi> our firſt father did deceave,</l>
+                  <l>And of that heavenly bliſſe did us bereave,</l>
+                  <l>Which none but <hi>Adam</hi> ere did know,</l>
+                  <l>Pride having wrought our overthrow<g ref="char:punc">▪</g>
+                  </l>
+                  <l>For which proud fact women oft doth ſmart,</l>
+                  <l>As for example take our lady <hi>Hart.</hi>
+                  </l>
+               </q>
+            </div>
+            <div type="part">
+               <pb facs="tcp:169865:10"/>
+               <head>How Sir <hi>William Hart</hi> came to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> where living at a high rate, at laſt Cozened a Linen Draper living upon <hi>Ludgate-hill</hi> of an hundred and forty pounds in monies and for lodging.</head>
+               <p>NOw behold our mighty match marching towards <hi>London,</hi> Sir <hi>William</hi> and his Lady whith their traine, men and maides upon tired Iades, &amp;c. hither they come, and whileſt the merry mony laſts (Fly braſſe the Devils a tinker, and ſo was Major <hi>Rumball</hi>) our jovyall crue ſpares for no coſt, which exhauſts in a ſhort time the moſt of their treaſure; Expectation fruſtrated, breeds Iarres, This is the cauſe of our domeſtick warres; for in the change of twelve months, Sir <hi>William Hart</hi> got rid both of wife and portion; the one he conſumes, the other he packs into the Country: and then betakes him to his wits, and whilſt he has ſomething left takes him lodgings at a Linnen drapers upon
+<pb facs="tcp:169865:10"/>
+                  <hi>Ludgate-hill,</hi> paſſing after his old mode for ſome great man in diſ<g ref="char:EOLhyphen"/>guiſe, ſtrange Company he keeps, and many ſhifts he makes, keeping his credit ſtill good at his Lodging: at laſt comming acquainted with a <hi>Hol<g ref="char:EOLhyphen"/>lander,</hi> he diſcourſes concerning the trade of Linnen, and growes expert in the function; one night drinking a cup of Sack with his Landlord, he acquaints him that he had a ſumme of three hundred pound in banck in <hi>Holland,</hi> and that he intended to have it over in ſo many barrells of Bag holland, and thereupon writes a formall letter before his Landlord for holland; in leſſe then a months time the holland comes barrell'd up, is brought and ſtored up in his Landlords ſeller: Sir <hi>William</hi> and his Landlord goes downe knocks open one of the barrells, viewes the top where was four or five peices of good holland, and after a little while returnes into his Chamber againe; within a day or two following Sir <hi>William Hart</hi> comes
+<pb facs="tcp:169865:11"/>
+to his Landlord, and deſires, to ſatisfie a preſſing debt, immediatly a hundred and forty pounds, and in liew of that courteſy he told him he would afford him a pennie worth in his holland, the Landlord makes what haſt he can and provides him with the ſumme afore<g ref="char:EOLhyphen"/>ſaid, which our Knight being poſſeſt of, he told his Landlord he would be within to ſee the cloath delive<g ref="char:EOLhyphen"/>red out; but certainly ſome ſerious occaſion drew him aſide, for he ne<g ref="char:EOLhyphen"/>ver ſaw his Landlord ſince: who hav<g ref="char:EOLhyphen"/>ing ſtayed ſome two or three days in expectation, at laſt, breaks open the barrells where he finds the top of each covered with a piece of holland, and under neath the barrells were wel ſtuffed with good green turfe, in all to the value of twelve pence or there abouts: which when the poore Lin<g ref="char:EOLhyphen"/>nen draper ſaw he was ready to ſink through ſorrow, but alas! to no pur<g ref="char:EOLhyphen"/>poſe, for the Knight was flown halfe way into <hi>Worceſter-ſhire.</hi>
+               </p>
+               <q>
+                  <pb facs="tcp:169865:11"/>
+                  <l>This cheating (Sir Kn.) will laſt but for a while,</l>
+                  <l>Theſe facts of yours will bring you to a fall.</l>
+                  <l>Though the Linnen-draper poor you did beguil,</l>
+                  <l>And through cozening ſome, do hope to cozen all.</l>
+                  <l>Yet at <hi>Worceſter</hi> (as I take it) not long agoe,</l>
+                  <l>You'r beaten, taken, yea and ſtript I troe.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>How Sir <hi>William Hart</hi> being taken a Priſoner at <hi>Worceſter</hi> had leave to lie in a <hi>Burgeſses</hi> houſe of the towne, where a certaine Dancing maſter taught, by reaſon of which he fell in league with a young Gentlewoman one Mris. <hi>Dorothy,</hi> whom he cheated of ten pounds.</head>
+               <p>OUr Sir <hi>William</hi> having played <hi>Ie<g ref="char:EOLhyphen"/>gier du pirde</hi> from <hi>London,</hi> ſteers his courſe by the north weſt roade for <hi>Scotland,</hi> it being then the receptacle of ſuch blades, the great number of Eng<g ref="char:EOLhyphen"/>liſh that came in with the <hi>Scots,</hi> conſiſt<g ref="char:EOLhyphen"/>ing for the moſt part of ſuch hacks. But at or neare unto <hi>Sturbridge</hi> in <hi>Wor<g ref="char:EOLhyphen"/>ceſterſhire,</hi> our Knight is taken by ſome of the County troope upon ſuſpition, being armed with Piſtols he and his man, hee pretends to belong to the
+<pb facs="tcp:169865:12"/>
+Army, but there his tale failing him, he is brought before Colonel <hi>James</hi> the governor of <hi>Worceſter,</hi> where after examination he is committed a pri<g ref="char:EOLhyphen"/>ſoner to a townſemans houſe in the <hi>Cookeing-ſtreet</hi> where one <hi>Hall</hi> a dance<g ref="char:EOLhyphen"/>ing maſter taught ſeverall young Gentlewomen to dance; this <hi>Le Frisk</hi> our dancing maſter had been an arch Cavalier in the former warres; into whom our knight inſinuates himſelfe ſpending upon him moſt liberally, which cauſes him (Cats guts and roſ<g ref="char:EOLhyphen"/>ſen) to ſweare to all his acquaintance, that he was for certaine ſome diſguiſed Prince, and ſo commends him amongſt his ſcholars, that ſeverall of the female Cavaliers begins to reſent him, and one amongſt the reſt eſpecially affects him, which love of hers, may be from theſe reaſons, ſhe being the governeſſe of her Grandmother, and of her joynture ſome three hundred pounds a yeare, not far from that City; the indulgence of the old Gentlewoman being the ruine of the yon<g ref="char:EOLhyphen"/>ger, her feature and complexion being none of the rareſt; her portion but reaſo<g ref="char:EOLhyphen"/>nable,
+<pb facs="tcp:169865:12"/>
+but her thoughts ambitions, proud, as Ixions; this Lady fancies our Sir <hi>William,</hi> loves him, who perceaves her a Platonick lover, he frames accordingly ſeverall glan<g ref="char:EOLhyphen"/>ces, ſighes, wringing of the hands, trem<g ref="char:EOLhyphen"/>bling kiſſes, and amorous verſes, which brings our Gentlewoman into ſo ſtrong a conceite of being a Lady, that ſhe obſerves the diſtance of one already: She invites her ſervant to her Grandmother hoame unto ſeverall Suppers and Collations, and in the hight of all this their joylity, comes the <hi>Scotch</hi> King with his tarpallians to town, and then hey boyes, who but our Knight proclames him at the market Croſs and the next day to Court as Bravely har<g ref="char:EOLhyphen"/>neſſed as one of the Goulden fellowes that ſtrikes the Quarters at Bow church in Cheape ſide, and afterwards to their old exerciſe of Carowſing and feaſting, where our Lady <hi>Dorothy</hi> is ſeated at the upper end of the board, our Knight ſends to his Miſtris for ten peeces; which is ſent imme<g ref="char:EOLhyphen"/>diately, the next day he meets her, and to congratulate her favour, preſents her with a blew bead Ring worth ſix pence, under the notion of a turkey ſtone, likewiſe in<g ref="char:EOLhyphen"/>vites her and her Grandmother that night to ſupper, to a pig and other rare diſhes. But in the interim, marke what befalls, our
+<pb facs="tcp:169865:13"/>
+forces the ſame day routs the Bullyes, and all the fats in the fire, our Knights taken, brought to <hi>London</hi> and clapt priſoner in the <hi>Tower:</hi> Mris. <hi>Dorothy</hi> followes, but there contrary to her expectation findes Sir <hi>William Harts</hi> Wife with three or foure Children, whereupon ſhe ſent to him for herten pounds, and receives in liew there<g ref="char:EOLhyphen"/>of a bad anſwer, the griefe of which cauſed the rivulets of her eyes to inundate the marygolds of her cheeks, (roſes I ſhould have ſaid, but I am jack tell troath) and back to <hi>Worceſter-ſhire</hi> ſhe is gon with a ſad heart God wot.</p>
+               <q>
+                  <l>Thus Mris. <hi>Dorothy</hi> with a penſive minde,</l>
+                  <l>Is gon and left her Ladyſhip behinde.</l>
+                  <l>The ring proves falce, her monie's loſt,</l>
+                  <l>And thus you ſee how her Ambition's croſt.</l>
+                  <l>Thus Reader maiſt thou gexeſſe pede Hercules,</l>
+                  <l>Our Knights whole life to have done ſuch pranks as theſe.</l>
+                  <l>And if thou fancieſt this our Sir <hi>William Hart,</hi>
+                  </l>
+                  <l>I doe aſſure thee of a ſecond part.</l>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
